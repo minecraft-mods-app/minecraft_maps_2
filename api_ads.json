@@ -11,6 +11,7 @@
 "is_show_banner":true,
 "is_show_native":true,
 "is_load_failed":true,
+"is_show_splash_inter":true,
 "ads_click_main_percents":30,
 "isAdmob":true
 }
