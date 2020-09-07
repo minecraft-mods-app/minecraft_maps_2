@@ -13,5 +13,6 @@
 "is_load_failed":true,
 "is_show_splash_inter":true,
 "ads_click_main_percents":60,
+"is_show_inter_back":true,
 "isAdmob":true
 }
